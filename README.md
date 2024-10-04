@@ -1,9 +1,9 @@
 
 ## Yo! I'm #Rafael
 
-- *Currently, i'm studying Python and Java.*
-- *I intend to learn C; JavaScript; TypeScript; NodeJs and their tools, on my own.*
-- *I like to learn new things*
+-  *-👨🏽‍💻Currently, i'm studying Python and Java.*
+-  *-🚀I intend to learn C; JavaScript; TypeScript; NodeJs and their tools, on my own.*
+-  *-🌱I like to learn new things*
 
 ## Interest:
 - Full Stack Developer
