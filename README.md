@@ -1,5 +1,5 @@
 
-## Yo! I'm #Rafael
+## Hello! I'm #Rafael
 
 -  *-👨🏽‍💻Currently, i'm studying Python and Java.*
 -  *-🚀I intend to learn C; JavaScript; TypeScript; NodeJs and their tools, on my own.*
