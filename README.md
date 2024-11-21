@@ -6,10 +6,10 @@
 -  *-🌱I like to learn new things*
 
 ## Interest:
-- Full Stack Developer
-- AI
-- Data Analytics
-- Embedded Systems
+- Full Stack Developer;
+- AI;
+- Data Analytics;
+- Embedded Systems;
   
 ## My preview:
 <div align="center">
