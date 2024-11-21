@@ -11,7 +11,7 @@
 - Data Analytics
 - Embedded Systems
   
-- ## My preview:
+## My preview:
 <div align="center">
   
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact&theme=one_dark_pro)![Rafael Macharete's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMacharete&show_icons=true&theme=one_dark_pro&height="1000")
