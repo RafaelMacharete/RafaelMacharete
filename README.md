@@ -14,7 +14,6 @@
 ## My preview:
 <div align="center">
   
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact&theme=one_dark_pro)![Rafael Macharete's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMacharete&show_icons=true&theme=one_dark_pro&height="1000")
- 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact&theme=one_dark_pro)
 [![GitHub Streak](https://streak-stats.demolab.com?user=RafaelMacharete&theme=one-dark-pro)](https://git.io/streak-stats)
 
