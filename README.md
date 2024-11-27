@@ -8,7 +8,6 @@
 ## Interest:
 - Full Stack Developer;
 - AI;
-- Data Analytics;
 - Embedded Systems;
   
 ## My preview:
