@@ -14,5 +14,5 @@
 <div align="center">
   
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact&theme=one_dark_pro)
-[![GitHub Streak](https://streak-stats.demolab.com?user=RafaelMacharete&theme=one-dark-pro)](https://git.io/streak-stats)
+
 
