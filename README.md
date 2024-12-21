@@ -6,9 +6,8 @@
 -  *-🌱I like to learn new things*
 
 ## Interest:
-- Full Stack Developer;
+- Full Stack Web Developer;
 - AI;
-- Embedded Systems;
   
 ## My preview:
 <div align="center">
