@@ -11,6 +11,6 @@
   
 ## My preview:
 ![RafaelM's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMacharete&show_icons=true&theme=one_dark_pro)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact&theme=one_dark_pro)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact)
 
 
