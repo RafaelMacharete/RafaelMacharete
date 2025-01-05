@@ -17,4 +17,6 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact&theme=one_dark_pro)
 </div>
 
-
+<img align="right" height="185px"
+        src="http://github-readme-stats.vercel.app/api/top-langs/?username=phfuark&layout=compact&theme=midnight-purple"
+        alt="Paulo Henrique github stats" />
