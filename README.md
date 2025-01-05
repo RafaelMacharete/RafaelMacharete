@@ -15,6 +15,6 @@
         src="https://streak-stats.demolab.com/?user=RafaelMacharete&theme=shadow_blue&show_icons=true"
         alt="Rafael Macharete github stats" />
     <img align="right" height="185px"
-        src="http://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact&theme=algolia"
+        src="http://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact&theme=shadow_blue"
         alt="Rafael Macharete github stats" />
 </div>
