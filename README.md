@@ -12,9 +12,9 @@
 ## My preview:
 <div>
     <img align="left" height="185px"
-        src="https://streak-stats.demolab.com/?user=RafaelMacharete&theme=shadow_blue&show_icons=true"
+        src="https://streak-stats.demolab.com/?user=RafaelMacharete&theme=holi&show_icons=true"
         alt="Rafael Macharete github stats" />
     <img align="right" height="185px"
-        src="http://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact&theme=shadow_blue"
+        src="http://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact&theme=holi"
         alt="Rafael Macharete github stats" />
 </div>
