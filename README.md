@@ -10,12 +10,11 @@
 - AI;
   
 ## My preview:
-<div display="flex">
-  
- ![RafaelM's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMacharete&show_icons=true&theme=one_dark_pro)  
-
-<img height="185px"
-        src="http://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact&theme=one_dark_pro"
+<div>
+    <img align="left" height="185px"
+        src="https://streak-stats.demolab.com/?user=RafaelMacharete&theme=midnight-purple&show_icons=true"
         alt="Rafael Macharete github stats" />
-  
+    <img align="right" height="185px"
+        src="http://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact&theme=midnight-purple"
+        alt="Rafael Macharete github stats" />
 </div>
