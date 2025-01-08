@@ -11,7 +11,7 @@
   
 ## My preview:
 <div>
-    <img align="right" height="185px"
+    <img height="185px"
         src="http://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact&theme=blueberry"
         alt="Rafael Macharete github stats" />
 </div>
