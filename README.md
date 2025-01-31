@@ -7,7 +7,7 @@
 
 ## Interest:
 - Full Stack Web Developer;
-- AI;
+- AI.
   
 ## My preview:
 <div>
