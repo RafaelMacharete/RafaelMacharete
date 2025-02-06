@@ -13,7 +13,8 @@
     <img height="185px"
         src="http://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact&theme=blueberry"
         alt="Rafael Macharete github stats" />
-        ![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact&theme=blueberry)
+  
+![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact&theme=blueberry)
 
   
 </div>
