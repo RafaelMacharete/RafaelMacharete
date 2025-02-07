@@ -14,7 +14,7 @@
         src="http://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact&theme=blueberry"
         alt="Rafael Macharete github stats" />  
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=phfuark&theme=midnight-purple"
+    src="https://github-readme-streak-stats.herokuapp.com?user=phfuark&theme=blueberry"
     alt="Rafael Macharete github streak"
     />
 </div>
