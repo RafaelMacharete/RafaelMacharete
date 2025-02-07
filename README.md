@@ -11,10 +11,10 @@
 ## My preview:
 <div>
     <img height="185px"
-        src="http://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact&theme=blueberry"
+        src="http://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMacharete&layout=compact&theme=midnight-purple"
         alt="Rafael Macharete github stats" />  
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=phfuark&theme=blueberry"
+    src="https://github-readme-streak-stats.herokuapp.com?user=phfuark&theme=midnight-purple"
     alt="Rafael Macharete github streak"
     />
 </div>
