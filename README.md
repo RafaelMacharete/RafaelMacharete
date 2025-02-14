@@ -7,6 +7,7 @@
 
 ## Interest:
 - Full Stack Web Developer;
+- Tech Lead;
   
 ## My preview:
 <div>
