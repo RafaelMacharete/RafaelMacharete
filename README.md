@@ -6,7 +6,6 @@
 -  *-🌱I like to learn new things.*
 
 ## Interest:
-- Full Stack Web Developer;
 - Tech Lead;
   
 ## My preview:
