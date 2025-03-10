@@ -9,7 +9,7 @@
   
 ## My preview:
 <div>
-    <img height="185px"
+    <img align="center" height="185px"
         src="http://github-readme-stats.vercel.app/api/top-langs/?username=rafaelMacharete&layout=compact&theme=react"
         alt=RafaelMacharete github stats" />
 </div>
