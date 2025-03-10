@@ -9,9 +9,6 @@
   
 ## My preview:
 <div>
-    <img align="left" height="185px"
-        src="https://github-readme-streak-stats.herokuapp.com?user=rafaelMacharete&theme=react"
-        alt="RafaelMacharete github stats" />
     <img align="right" height="185px"
         src="http://github-readme-stats.vercel.app/api/top-langs/?username=rafaelMacharete&layout=compact&theme=react"
         alt=RafaelMacharete github stats" />
