@@ -6,6 +6,7 @@
 
 ## Interest:
 - Tech Lead;
+- Full Stack.
   
 ## My preview:
 <div>
