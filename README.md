@@ -6,7 +6,8 @@
 
 ## Interest:
 - Tech Lead;
-- Full Stack.
+- Full Stack;
+- Full cycle.
   
 ## My preview:
 <div>
