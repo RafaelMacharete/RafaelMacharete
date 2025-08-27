@@ -6,7 +6,6 @@
 
 ## Interest:
 - Tech Lead;
-- Full Stack;
 - Full cycle.
   
 ## My preview:
